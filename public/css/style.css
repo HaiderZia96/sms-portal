@@ -1,0 +1,64 @@
+
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+}
+.btn_hide{
+  background-color:#0B0B1D;
+  color:#fff;
+  border-color:#fff;
+}
+.btn_hide:hover {
+  color:#222D43;
+  background-color: #fff;
+  border-color: #222D43;
+  font-weight: bold;
+}
+.btn_show{
+  background-color:#0B0B1D;
+  color:#fff;
+  border-color:#fff;
+}
+.btn_show:hover {
+  color:#222D43;
+  background-color: #fff;
+  border-color: #222D43;
+  font-weight: bold;
+}
+.left-col {
+    float: left;
+    width: 50%;
+}
+ 
+.top-Panding-col {
+  padding-top: 54px;
+}
+ 
+.right-col {
+    float: left;
+    width: 50%;
+}
+.nav-logout-mt-460{
+  margin-top: 500px;
+}
+.logout-bg{
+  background-color: #17a2b8!important;
+  color: #fff !important;
+}
+.red-color{
+  color: red;
+}
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0.6;
+  }
+}
+.note-instant{
+  
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+  color: #000 !important;
+}
